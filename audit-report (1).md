@@ -1,0 +1,79 @@
+# Website Audit Report
+
+This document lists all issues identified during the website audit, with a screenshot for each.
+
+> **Note:** Upload your screenshots to an `images/` folder in this repo, then replace the placeholder filenames below (e.g. `issue-1-flickering.png`) with your actual image filenames.
+
+---
+
+### 1. Flickering of the site
+The site flickers while scrolling down. The issue does not occur when the tab is not in fullscreen mode.
+
+![Flickering of the site](images/issue-1-flickering.png)
+
+---
+
+### 2. Duplicate Heading Content
+The homepage shows "GTM Engineering Agency" followed by "for B2B AI Startups" appearing twice in the page content.
+
+![Duplicate heading content](images/issue-2-duplicate-heading.png)
+
+---
+
+### 3. Broken / Incorrect External Link
+The "Explore architecture →" link points to example.com instead of a relevant Marketing Boutique page.
+
+![Broken external link](images/issue-3-broken-link.png)
+
+---
+
+### 4. Link is Not Opening
+The "See how we solved this for 15+ clients" link does not redirect anywhere.
+
+![Link not opening](images/issue-4-link-not-opening.png)
+
+---
+
+### 5. Hidden Interactive Options (No Visual Cue)
+Clicking "We Ship Systems, Not Slide Decks" reveals multiple options, but there's no visual indication beforehand that it's clickable or contains options.
+
+![Hidden options with no visual cue](images/issue-5-hidden-options.png)
+
+---
+
+### 6. Not Redirecting After Click
+"Read Our Latest Research" does not redirect after being clicked.
+
+![Not redirecting - research link](images/issue-6-research-link.png)
+
+---
+
+### 7. Not Redirecting After Click
+"Get a free growth audit" and "See full pricing details" do not open after being clicked.
+
+![Not redirecting - growth audit and pricing](images/issue-7-audit-pricing.png)
+
+---
+
+### 8. Not Redirecting After Click
+"Book a strategy call" and "See Proven results" do not redirect after being clicked.
+
+![Not redirecting - strategy call and results](images/issue-8-strategy-results.png)
+
+---
+
+### 9. Form Validation Missing
+Clicking "Subscribe" without entering an email still shows a "Thank you" confirmation message.
+
+![Form validation missing](images/issue-9-form-validation.png)
+
+---
+
+### 10. Not Redirecting
+The Privacy Policy and Terms and Conditions links do not open.
+
+![Privacy policy and terms not opening](images/issue-10-privacy-terms.png)
+
+---
+
+*Compiled from manual QA/SEO audit findings.*
