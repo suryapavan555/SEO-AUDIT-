@@ -30,7 +30,7 @@ The "Explore architecture →" link points to example.com instead of a relevant 
 ### 4. Link is Not Opening
 The "See how we solved this for 15+ clients" link does not redirect anywhere.
 
-![Link not opening](link not opening .png)
+![Link not opening](link-not-opening.png)
 
 ---
 
