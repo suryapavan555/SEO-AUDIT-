@@ -51,7 +51,7 @@ Clicking "We Ship Systems, Not Slide Decks" reveals multiple options, but there'
 ### 7. Not Redirecting After Click
 "Get a free growth audit" and "See full pricing details" do not open after being clicked.
 
-![Not redirecting - growth audit and pricing](images/issue-7-audit-pricing.png)
+![Not redirecting - growth audit and pricing](No-Redirecting-After-Click.png)
 
 ---
 
