@@ -9,7 +9,7 @@ This document lists all issues identified during the website audit, with a scree
 ### 1. Flickering of the site
 The site flickers while scrolling down. The issue does not occur when the tab is not in fullscreen mode.
 
-![Flickering of the site](images/issue-1-flickering.png)
+
 
 ---
 
