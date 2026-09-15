@@ -16,7 +16,7 @@ The site flickers while scrolling down. The issue does not occur when the tab is
 ### 2. Duplicate Heading Content
 The homepage shows "GTM Engineering Agency" followed by "for B2B AI Startups" appearing twice in the page content.
 
-![Duplicate Heading](images/issue-2-duplicate-heading.png)
+![Duplicate Heading](images/issue-2-duplicate-heading.png.)
 
 ---
 
