@@ -23,7 +23,7 @@ The homepage shows "GTM Engineering Agency" followed by "for B2B AI Startups" ap
 ### 3. Broken / Incorrect External Link
 The "Explore architecture →" link points to example.com instead of a relevant Marketing Boutique page.
 
-![Broken external link](images/issue-3-broken-link.png)
+![Broken external link](broken-external-link-images.png) 
 
 ---
 
