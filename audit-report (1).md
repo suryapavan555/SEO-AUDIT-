@@ -72,7 +72,7 @@ Clicking "Subscribe" without entering an email still shows a "Thank you" confirm
 ### 10. Not Redirecting
 The Privacy Policy and Terms and Conditions links do not open.
 
-![Privacy policy and terms not opening](images/issue-10-privacy-terms.png)
+![Privacy policy and terms not opening](Not-Redirecting.png)
 
 ---
 
