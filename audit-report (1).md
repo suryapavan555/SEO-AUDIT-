@@ -44,7 +44,7 @@ Clicking "We Ship Systems, Not Slide Decks" reveals multiple options, but there'
 ### 6. Not Redirecting After Click
 "Read Our Latest Research" does not redirect after being clicked.
 
-![Not redirecting - research link](images/issue-6-research-link.png)
+![Not redirecting - research link](Not-Redirecting-After-Click.png)
 
 ---
 
