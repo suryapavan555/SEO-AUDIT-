@@ -65,7 +65,7 @@ Clicking "We Ship Systems, Not Slide Decks" reveals multiple options, but there'
 ### 9. Form Validation Missing
 Clicking "Subscribe" without entering an email still shows a "Thank you" confirmation message.
 
-![Form validation missing](images/issue-9-form-validation.png)
+![Form validation missing](Form-Validation-Missing.png)
 
 ---
 
