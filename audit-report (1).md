@@ -37,7 +37,7 @@ The "See how we solved this for 15+ clients" link does not redirect anywhere.
 ### 5. Hidden Interactive Options (No Visual Cue)
 Clicking "We Ship Systems, Not Slide Decks" reveals multiple options, but there's no visual indication beforehand that it's clickable or contains options.
 
-![Hidden options with no visual cue](images/issue-5-hidden-options.png)
+![Hidden options with no visual cue](Hidden-Interactive-Options.png)
 
 ---
 
