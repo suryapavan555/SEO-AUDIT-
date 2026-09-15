@@ -58,7 +58,7 @@ Clicking "We Ship Systems, Not Slide Decks" reveals multiple options, but there'
 ### 8. Not Redirecting After Click
 "Book a strategy call" and "See Proven results" do not redirect after being clicked.
 
-![Not redirecting - strategy call and results](images/issue-8-strategy-results.png)
+![Not redirecting - strategy call and results](its-No-Redirecting-After-Click.png)
 
 ---
 
