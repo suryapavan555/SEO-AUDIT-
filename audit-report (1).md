@@ -25,6 +25,8 @@ The "Explore architecture →" link points to example.com instead of a relevant 
 
 ![Broken external link](broken-external-link-images.png) 
 
+![external link](External-Link.png)
+
 ---
 
 ### 4. Link is Not Opening
