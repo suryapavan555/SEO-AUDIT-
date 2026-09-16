@@ -2,7 +2,6 @@
 
 This document lists all issues identified during the website audit, with a screenshot for each.
 
-> **Note:** Upload your screenshots to an `images/` folder in this repo, then replace the placeholder filenames below (e.g. `issue-1-flickering.png`) with your actual image filenames.
 
 ---
 
